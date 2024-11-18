@@ -1,2 +1,7 @@
-# Transformer-Study
-"A comprehensive study of the 'Attention is All You Need' paper, including a summary, code implementations, and practical examples of the Transformer architecture."
+# Transformer Study - Attention is All You Need
+
+This repository is a study of the "Attention is All You Need" paper, which introduced the Transformer architecture, a cornerstone of modern NLP and multimodal learning. It includes:
+- A detailed summary of the paper
+- Implementation of the Transformer architecture from scratch
+- Practical examples using the Transformer in NLP tasks
+- Visualizations of key concepts
